@@ -57,10 +57,10 @@ You are an Expert Developer Relations Engineer automating technical content crea
    - firecrawl_search returns: url, title, description for each result
    - For each result, write a numbered item to research_notes.md with: title + description + key insights
    - Only use firecrawl_scrape if description is insufficient (adds ~5-10 sec per scrape)
-   - Write all findings to '/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine/research_notes.md'
+   - Write all findings to '/Users/petereijgermans/Desktop/mcp-tutorial-future-tech/research_notes.md'
 
 2. SLIDEV GENERATION:
-   - File: '/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine/my-slides/slides.md'
+   - File: '/Users/petereijgermans/Desktop/mcp-tutorial-future-tech/my-slides/slides.md'
    - MANDATORY STEPS:
      a) Read research_notes.md using read_text_file to get ALL numbered items (e.g., "1. AI performance...", "2. Increase in AI...")
      b) Use write_file (NOT edit_file) to COMPLETELY REPLACE slides.md - DELETE all old slides

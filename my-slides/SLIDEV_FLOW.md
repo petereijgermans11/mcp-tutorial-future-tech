@@ -20,7 +20,7 @@ User Prompt → Firecrawl MCP → research_notes.md → Filesystem MCP → slide
 - Reads `research_notes.md` to get research data
 - Reads existing `slides.md` to see current state (prevents state loss)
 - Writes/updates `slides.md` with Slidev format
-- File location: `/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine/my-slides/slides.md`
+- File location: `/Users/petereijgermans/Desktop/mcp-tutorial-future-tech/my-slides/slides.md`
 
 ### 3. **Slidev** (Presentation Engine)
 - Automatically watches `slides.md` for changes
@@ -82,8 +82,8 @@ User Prompt → Firecrawl MCP → research_notes.md → Filesystem MCP → slide
 
 ## File Locations
 
-- Research notes: `/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine/research_notes.md`
-- Slides: `/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine/my-slides/slides.md`
+- Research notes: `/Users/petereijgermans/Desktop/mcp-tutorial-future-tech/research_notes.md`
+- Slides: `/Users/petereijgermans/Desktop/mcp-tutorial-future-tech/my-slides/slides.md`
 - Agent: `src/langgraph_mcp/03_mcp_stdio_external_package.py`
 
 ## Slidev Syntax Reference

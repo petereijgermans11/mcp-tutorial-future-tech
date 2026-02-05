@@ -5,7 +5,7 @@
 
 set -e  # Exit on error
 
-PROJECT_ROOT="/Users/petereijgermans/Desktop/mcp-tutorial-java-magazine"
+PROJECT_ROOT="/Users/petereijgermans/Desktop/mcp-tutorial-future-tech"
 SLIDES_DIR="$PROJECT_ROOT/my-slides"
 
 echo "🚀 Initializing Slidev project..."
