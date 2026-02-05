@@ -8,8 +8,9 @@ This project demonstrates how to use **Model Context Protocol (MCP)** with **Lan
 
 0. Clone this repository:
     ```bash
-    git clone https://github.com/DiegoLigtenberg/workshop-langgraph-mcp.git
-    cd workshop-langgraph-mcp
+    git clone https://github.com/petereijgermans11/mcp-tutorial-future-tech.git
+    cd mcp-tutorial-future-tech
+
     ```
 
 1. Install Poetry:
